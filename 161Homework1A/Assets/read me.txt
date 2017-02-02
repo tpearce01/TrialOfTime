@@ -1,0 +1,23 @@
+Tyler Pearce
+tpearce@uci.edu
+89678177
+
+My game is a platformer that utilizes the flow of time to allow the player to overcome obstacles that are otherwise challenging. The 
+goal of the player is to reach the other end of the walkway to earn their freedom from the god who has imprisoned them. 
+
+Controls:
+Move - WASD, or hold Left and Right Mouse buttons
+Jump - Spacebar
+Return time to normal - hold E
+Rotate Camera - Hold Left Mouse button and move mouse
+Rotate Player - Hold Right Mouse button and move mouse. Also rotates camera
+
+All assets not listed are created by Tyler Pearce, excluding assets built in to Unity
+
+Assets not fully owned by Tyler Pearce
+1. Floor & Hazard textures | Unity Asset Store "Tileable Hand Painted Ground Texture Pack 2"
+2. Character Model with Animations| Unity Asset Store "Unity Chan"
+3. Skybox Image, Main Menu Background | http://webtreats.mysitemyway.com/tileable-classic-nebula-space-patterns/
+4. In-Game Song | https://www.youtube.com/watch?v=qd-tgNNXSx0
+5. Main Menu Song | https://www.youtube.com/watch?v=JcP-DnMx6RI
+6. Camera Controller Script, Modified by Tyler Pearce | http://answers.unity3d.com/questions/418421/set-camera-orbit-rotation-on-mouse-direction-mouve.html
